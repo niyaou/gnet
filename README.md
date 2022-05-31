@@ -70,6 +70,8 @@ func OnTest(conn Connection, packet Packet) {
 
 [模拟一个简单的游戏应用场景的性能测试](https://github.com/fish-tennis/gnet/blob/main/example/server_test.go)
 
+[不使用RingBuffer的大包](https://github.com/niyaou/gnet/blob/main/example/big_packet_test.go)
+
 ## 编译
 项目使用go.mod
 
